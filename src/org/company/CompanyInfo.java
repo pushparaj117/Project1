@@ -16,7 +16,11 @@ public class CompanyInfo {
 	System.out.println("Year of Joining:"+ yoj);
 
 	}
-	
+	private void info() {
+		
+		System.out.println("regarding model info is to print");
+		System.out.println("regarding model info is to print");
+	}
 	private void companyName(String name, long mobile) {
 		System.out.println("Client name:"+name);
 		System.out.println("mobile number:"+mobile);
